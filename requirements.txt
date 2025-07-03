@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+bitvavo
+matplotlib
+schedule
+websocket-client

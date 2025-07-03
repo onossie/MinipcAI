@@ -1,0 +1,7 @@
+{
+  "start_balance": 96,
+  "max_invest_per_coin": 2,
+  "min_candle_history": 150,
+  "interval": "1m",
+  "scheduler_interval_minutes": 15
+}
